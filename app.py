@@ -2,5 +2,5 @@
 from flask import Flask
 
 # Criação de uma variável app que receberá uma instância de Flask
-# default
+# default configuration
 app = Flask(__name__)
